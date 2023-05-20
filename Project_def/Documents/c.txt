@@ -1,7 +1,0 @@
-https://www.wallstreetmojo.com/pearson-correlation-coefficient/
-
-https://cran.r-project.org/web/packages/royston/royston.pdf
-
-https://it.mathworks.com/matlabcentral/fileexchange/17811-roystest
-
-https://it.mathworks.com/matlabcentral/fileexchange/13964-shapiro-wilk-and-shapiro-francia-normality-tests
