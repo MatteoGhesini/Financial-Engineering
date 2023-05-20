@@ -10,7 +10,4 @@
 </p>
 
 <h3 align="left">Description:</h3>
-<p align="left">This project aims to assess the resilience to water scarcity of the Italian electricity production system.<br>
-One of the many impacts of climate change is the alteration of the water cycle. The Mediterranean area is projected to experience an increase in the duration and intensity of droughts.
-This phenomenon affects electricity production due to the water requirements for cooling thermoelectric plants and for hydroelectric power, which is a significant energy source in Italy. <br>
-We envisioned adaptation to possible future scenarios of lower water availability, with its consequences on the power mix. We also considered various human water demand scenarios. </p>
+<p align="left">The purpose of our project is to investigate the Credit capital requirements in the Internal Rating Based approach considering the uncertainty linked to the presence of two different parameters which are: the probability of default ($\textbf{PD}$) and the loss given default ($\textbf{LGD}$). </p>
