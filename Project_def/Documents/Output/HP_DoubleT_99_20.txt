@@ -1,0 +1,29 @@
+>> HP_Double_t
+For the alpha: 99.9%
+For the nu: 20
+RC_SG_naive: 0.15828
+RC_All_Rated_naive: 0.12185
+ 
+Add-On: 
+LGD     (only):  13.27% | 23.71%
+k       (only):  10.17% | 14.81%
+LGD,k   (ind):   10.03% | 14.66%
+LGD,k   (cor):   14.82% | 10.27%
+ 
+RC: 
+LGD     (only):  0.1409 | 0.1977
+k       (only):  0.1382 | 0.1872
+LGD,k   (ind):   0.1381 | 0.1869
+LGD,k   (cor):   0.1384 | 0.1872
+ 
+VaR: 
+LGD     (only):  0.1468 | 0.2195
+k       (only):  0.143 | 0.2055
+LGD,k   (ind):   0.1428 | 0.2052
+LGD,k   (cor):   0.1431 | 0.2055
+ 
+EL: 
+LGD     (only):  0.0059 | 0.0219
+k       (only):  0.0048 | 0.0183
+LGD,k   (ind):   0.0048 | 0.0183
+LGD,k   (cor):   0.0048 | 0.0183
