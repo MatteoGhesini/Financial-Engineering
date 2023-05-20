@@ -1,4 +1,3 @@
-# Project-Financial-Enegeneering
 <h1 align="left"> Model Risk on Regulatory Capital </h1>
 
 <h4 align="left">Project for the course of Financial engineering at Politecnico di Milano, 2021/2022</h4>
