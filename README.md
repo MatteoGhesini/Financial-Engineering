@@ -5,7 +5,7 @@
 <p align="left"> Team members:
 <ul>
   <li>Matteo Ghesini (<a href="https://github.com/MatteoGhesini/" target="_blank">Github</a>, <a href="https://www.linkedin.com/in/matteo-ghesini-223084210" target="_blank">Linkedin</a>)</li>
-  <li>Anna Toschi (<a href="https://github.com/ /" target="_blank">Github</a>, <a href="https://www.linkedin.com/in/ /" target="_blank">Linkedin</a>)</li>
+  <li>Anna Toschi </li>
 </ul>
 </p>
 
